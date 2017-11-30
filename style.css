@@ -1,8 +1,11 @@
 .q2 button{
   margin:20px;
-  padding:25px;
+  padding:24px;
   min-width: 140px;
 }
 .btnRight{
   float:right;
+}
+#q1, #q2, #q2a, #q2b, #q2c, #thanks, #q3 {
+  display: none;
 }
